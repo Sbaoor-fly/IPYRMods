@@ -20,7 +20,7 @@ def load_plugin():
         motd.append(d[x])
         print d[x]
         x +=1
-    print('[DynamicMotd] 背包保存已加载！')
+    print('[DynamicMotd] 动态motd已加载！')
 
 def changemotd():
     print '[DynamicMotd] 线程开启！'
