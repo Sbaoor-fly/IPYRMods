@@ -1,2 +1,2 @@
 # IPYRMods
-基于ipyr的示例插件
+构建基于IronPythonRunner的插件示例
